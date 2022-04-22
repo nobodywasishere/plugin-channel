@@ -91,4 +91,7 @@
 
   // autosave plugin
   "https://raw.githubusercontent.com/transmutrix/micro-plugin-autosave/master/repo.json"
+  
+  // language-env plugin
+  "https://gitlab.com/taconi/micro-language-env/-/raw/main/repo.json"
 ]
