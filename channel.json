@@ -90,8 +90,11 @@
   "https://raw.githubusercontent.com/andcake/micro-plugin-lsp/master/repo.json",
 
   // autosave plugin
-  "https://raw.githubusercontent.com/transmutrix/micro-plugin-autosave/master/repo.json"
+  "https://raw.githubusercontent.com/transmutrix/micro-plugin-autosave/master/repo.json",
   
   // language-env plugin
-  "https://gitlab.com/taconi/micro-language-env/-/raw/main/repo.json"
+  "https://gitlab.com/taconi/micro-language-env/-/raw/main/repo.json",
+  
+  // darken plugin
+  "https://raw.githubusercontent.com/informeai/darken/main/repo.json"
 ]
