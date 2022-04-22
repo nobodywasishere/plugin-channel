@@ -105,5 +105,8 @@
   "https://raw.githubusercontent.com/MuratovAS/micro-yosyslint/main/repo.json",
   
   // fzfinder plugin
-  "https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json"
+  "https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json",
+  
+  // findinfolder plugin
+  "https://gitlab.com/taconi/micro-findinfolder/-/raw/main/repo.json"
 ]
