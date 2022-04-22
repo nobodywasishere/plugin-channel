@@ -102,5 +102,8 @@
   "https://raw.githubusercontent.com/sebkolind/micro-prettier/master/repo.json",
   
   // yosyslint plugin
-  "https://raw.githubusercontent.com/MuratovAS/micro-yosyslint/main/repo.json"
+  "https://raw.githubusercontent.com/MuratovAS/micro-yosyslint/main/repo.json",
+  
+  // fzfinder plugin
+  "https://raw.githubusercontent.com/MuratovAS/micro-fzfinder/main/repo.json"
 ]
