@@ -41,6 +41,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `yosyslint`  | Plugin for checking the syntax of the Verilog language. Based on yosys | https://github.com/MuratovAS/micro-yosyslint   | :heavy_check_mark:                       |
 | `fzfinder`  | The plugin allows you to integrate fzf to select and search for your project files | https://github.com/MuratovAS/micro-fzfinder              | :heavy_check_mark:                       |
 | `findinfolder`  | Folder search support                                   | https://gitlab.com/taconi/micro-findinfolder               | :heavy_check_mark:                       |
+| `mxc`           | Executes the current script in the buffer               | https://github.com/cadnza/mxc                              | :heavy_check_mark:                       |
 
 
 ## Adding your own plugin
