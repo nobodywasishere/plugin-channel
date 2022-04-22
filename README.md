@@ -38,6 +38,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `autosave`      | Automatically save on focus lost, or 5 seconds after your last edit | https://github.com/transmutrix/micro-plugin-autosave | |
 | `language-env`  | Syntax highlighting for files with .env extension       | https://gitlab.com/taconi/micro-language-env               | :heavy_check_mark:                       |
 | `prettier`      | Format your code with Prettier                          | https://github.com/sebkolind/micro-prettier                | |
+| `yosyslint`  | Plugin for checking the syntax of the Verilog language. Based on yosys | https://github.com/MuratovAS/micro-yosyslint   | :heavy_check_mark:                       |
 
 
 ## Adding your own plugin
