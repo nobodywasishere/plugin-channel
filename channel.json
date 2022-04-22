@@ -87,5 +87,8 @@
   "https://raw.githubusercontent.com/dmaluka/micro-detectindent/master/repo.json",
 
   // lsp plugin
-  "https://raw.githubusercontent.com/andcake/micro-plugin-lsp/master/repo.json"
+  "https://raw.githubusercontent.com/andcake/micro-plugin-lsp/master/repo.json",
+
+  // autosave plugin
+  "https://raw.githubusercontent.com/transmutrix/micro-plugin-autosave/master/repo.json"
 ]
