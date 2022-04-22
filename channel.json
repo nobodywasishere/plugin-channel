@@ -96,5 +96,8 @@
   "https://gitlab.com/taconi/micro-language-env/-/raw/main/repo.json",
   
   // darken plugin
-  "https://raw.githubusercontent.com/informeai/darken/main/repo.json"
+  "https://raw.githubusercontent.com/informeai/darken/main/repo.json",
+
+  // prettier plugin
+  "https://raw.githubusercontent.com/sebkolind/micro-prettier/master/repo.json"
 ]

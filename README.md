@@ -37,6 +37,7 @@ This repository contains the 'channel.json' file which lists all official micro 
 | `lsp`           | An basic LSP client implementation                      | https://github.com/AndCake/micro-plugin-lsp                | :heavy_check_mark:                       |
 | `autosave`      | Automatically save on focus lost, or 5 seconds after your last edit | https://github.com/transmutrix/micro-plugin-autosave | |
 | `language-env`  | Syntax highlighting for files with .env extension       | https://gitlab.com/taconi/micro-language-env               | :heavy_check_mark:                       |
+| `prettier`      | Format your code with Prettier                          | https://github.com/sebkolind/micro-prettier                | |
 
 
 ## Adding your own plugin
